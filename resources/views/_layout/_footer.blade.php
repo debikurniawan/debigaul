@@ -34,11 +34,11 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/home">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/page/tentang">Profil</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/guru">Guru</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/galeri">Galeri</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/kontak">Kontak</a></li>
             </ul>
           </div>
 
@@ -56,7 +56,7 @@
             <h4>Info</h4>
               <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Phone:+628134567890 
-
+</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Email:myschool@gmail.com</a></li>
               
              </ul>
