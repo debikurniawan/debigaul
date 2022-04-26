@@ -167,12 +167,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
-            <div class="info-box  mb-4">
-              <i class="bx bx-phone-call"></i>
-              <h3>Call Us</h3>
-              <p>+6281234567890</p>
-            </div>
+         
           </div>
 
         </div>
