@@ -37,6 +37,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/home">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/page/tentang">Profil</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/guru">Guru</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/berita">Berita</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/galeri">Galeri</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="http://127.0.0.1:8000/kontak">Kontak</a></li>
             </ul>
